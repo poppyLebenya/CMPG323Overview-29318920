@@ -19,7 +19,7 @@ Project4 repo- CMPG323Project4-29318920 will focus on Testing and RPA.
 Project5 repo- CMPG323Project5-29318920 will focus on Reporting and Monitoring
 
 ## Branching Strategy
-![alt text](https://github.com/poppyLebenya/CMPG323Overview-29318920/blob/GitFlow.png?raw=true)
+https://github.com/poppyLebenya/CMPG323Overview-29318920/blob/main/GitFlow.PNG
 
 With my branching stategy, I plan to have my main branch, development branch, release branch and my hotfixes.
 
