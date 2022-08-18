@@ -36,6 +36,7 @@ For the gitignore file, I plan to ignore Visual Studio since it will be the IDE 
 This will ignore sensitive information that will be used, it will also ignore files that are not of any use. 
 
 ## Storage credentials and Sensitive information
+To ensure that credentials and sensitive information is safely stored, I plan to utilise the resources provided by github. The licence and gitignore resouces are provided to ensure that no other user can change your work unless you provide permission for them to do that. Therefore the licences that will be used for my projects will be the MIT licence.
 
 ## Reference List
 https://github.com/poppyLebenya/CMPG323Overview-29318920/blob/main/Reference%20List.docx
