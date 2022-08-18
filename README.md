@@ -32,5 +32,7 @@ Hotfix branch will entail any rapid bug fixes that can be changed to allow it to
 Main branch which will entail the final version of the project.
 
 ## gitignore File
+For the gitignore file, I plan to ignore Visual Studio since it will be the IDE we will be using for the next 2 projects, Project 2 & 3.
+This will ignore sensitive information that will be used, it will also ignore files that are not of any use. 
 
 ## Storage credentials and Sensitive information
