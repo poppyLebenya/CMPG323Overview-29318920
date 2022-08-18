@@ -36,3 +36,6 @@ For the gitignore file, I plan to ignore Visual Studio since it will be the IDE 
 This will ignore sensitive information that will be used, it will also ignore files that are not of any use. 
 
 ## Storage credentials and Sensitive information
+
+## Reference List
+
